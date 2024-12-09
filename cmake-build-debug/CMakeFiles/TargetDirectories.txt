@@ -1,0 +1,3 @@
+C:/Users/2003j/Downloads/ProjetoIIA/cmake-build-debug/CMakeFiles/ProjetoIIA.dir
+C:/Users/2003j/Downloads/ProjetoIIA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/2003j/Downloads/ProjetoIIA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
